@@ -1,1 +1,2 @@
-# 2-statement-intermediate-exercises
+# 2-statement-intermediate-exercises [SQL]
+--INNER JOIN STATEMENT--
