@@ -1,5 +1,3 @@
-SELECT * from employee_salary;
-SELECT * FROM employee_demographics;
 SELECT * 
 FROM employee_demographics
 INNER JOIN employee_salary
